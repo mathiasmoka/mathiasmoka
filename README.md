@@ -10,6 +10,15 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 - 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
 
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
+<details>
+    <summary>Détails du projet</summary>
+
+    - **Objectif :** Étudier l'impact du changement climatique sur les rendements agricoles.  
+    - **Technologies :** Python, Pandas, PyTorch, scikit-learn.  
+    - **Résultats :** Modèles prédictifs performants et visualisations interactives.  
+    - **Lien :** [GitHub Repo](https://github.com/tonrepo)
+  </details>
+
 
 - 🚀 I launched [PrépaBooster](https://prepabooster.fr) in 2024, now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
 
@@ -53,6 +62,11 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Drive API](https://upload.wikimedia.org/wikipedia/commons/1/11/Google_Drive_icon.png)
+
+- Some APIs I used through my projects: 
+OCR
+Cloud APIs (GCP)
+Nano Banana, Veo3, Gemini, ChatGPT, Mistral AI, 
 
 <!--
 **mathiasmoka/mathiasmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
