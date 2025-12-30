@@ -49,6 +49,9 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![requests](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=requests&logoColor=white)
+![beautifulsoup](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+
 
 ---
 
