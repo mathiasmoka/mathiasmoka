@@ -1,4 +1,4 @@
-## Hi there, I'm Mathias Pisch 👋 <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
+## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
 <!--
 **mathiasmoka/mathiasmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Alongside my studies at ENSAE Paris, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), within [CREST - Center for Research in Economics and Statistics](https://crest.science).
+
+- 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
+
 
 ## ⚡ Technologies
 
