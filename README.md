@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Curious and open-minded, I'm interested in solving complex challenges by deploying AI solutions, through APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations (Python and SQL).
 
-- I am currently a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
+- 🏜️ I am currently a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
 
-- I'm currently experimenting AI technologies for the company [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
+- 🚢  I'm currently experimenting AI technologies for the company [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
 Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn).
 
 - 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
 
-Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations (Python and SQL).
-
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
 
+- 🚀 I launched [PrépaBooster](https://prepabooster.fr) in 2024, now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
+
 - 🌍 I am fluent in French and English, and am consistently eager to explore new places and engage in cultural exchange experiences.
+
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=france&logoColor=white)
+![English](https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=gb&logoColor=white)
 
 ## ⚡ Technologies
 
@@ -35,6 +39,7 @@ Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP,
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=sql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,10 +66,3 @@ Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP,
 ### ☁️ Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-## 📊 Mes stats GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathiasmoka&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmoka&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
