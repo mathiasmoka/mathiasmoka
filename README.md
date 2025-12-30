@@ -11,23 +11,20 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
     <details>
-    <summary>Détails du projet</summary>
+        <summary>Détails du projet</summary>
 
-    <div style="border:1px solid #ccc; padding:10px; border-radius:8px; background-color:#f9f9f9; margin-top:5px;">
+        <div style="border:1px solid #ccc; padding:10px; border-radius:8px; background-color:#f9f9f9; margin-top:5px;">
 
-    **Objectif :** Étudier l'impact du changement climatique sur les rendements agricoles.  
+        **Objectif :** Étudier l'impact du changement climatique sur les rendements agricoles.  
+        **Technologies :**  
+        - Python  
+        - Pandas  
+        - PyTorch  
+        - scikit-learn  
+        **Résultats :** Modèles prédictifs performants et visualisations interactives.  
+        **Lien :** [GitHub Repo](https://github.com/tonrepo)
 
-    **Technologies :**  
-    - Python  
-    - Pandas  
-    - PyTorch  
-    - scikit-learn  
-
-    **Résultats :** Modèles prédictifs performants et visualisations interactives.  
-
-    **Lien :** [GitHub Repo](https://github.com/tonrepo)
-
-    </div>
+        </div>
     </details>
 
 - 🚀 I launched [PrépaBooster](https://prepabooster.fr) in 2024, now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
