@@ -26,6 +26,8 @@ Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP,
 
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
 
+- 🌍 I am fluent in French and English, and am consistently eager to explore new places and engage in cultural exchange experiences.
+
 ## ⚡ Technologies
 
 ### 🧠 Languages
