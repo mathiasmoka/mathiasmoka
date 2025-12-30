@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Alongside my studies at ENSAE Paris, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), within [CREST - Center for Research in Economics and Statistics](https://crest.science).
+- I am currently a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
+
+- I'm currently experimenting AI technologies for the company [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
+Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn).
 
 - 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
 
+Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations (Python and SQL).
+
+- 👗 I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
 
 ## ⚡ Technologies
 
