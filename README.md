@@ -62,3 +62,9 @@ Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP,
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+
+## 📊 Mes stats GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathiasmoka&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmoka&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
