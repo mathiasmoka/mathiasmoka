@@ -1,13 +1,14 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-- 🔭 Curious and open-minded, I'm interested in solving complex challenges by deploying AI solutions, through APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations (Python and SQL).
+- 🔭 Curious and open-minded, I'm interested in solving complex challenges by deploying AI solutions, through APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations.
 
 - 🏜️ I am currently a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
 
 - 🚢  I'm currently experimenting AI technologies for the company [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
 Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn).
 
-- 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
+- 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne. 
+I am continuing the engineering program until May 2026.
 
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. 
     <details>
@@ -36,7 +37,6 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=sql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
