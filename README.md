@@ -24,7 +24,7 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 
 Using APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations (Python and SQL).
 
-- 👗 I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
+- 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
 
 ## ⚡ Technologies
 
