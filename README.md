@@ -9,7 +9,9 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 
 - 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne.
 
-- 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. <details>
+- 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. 
+    <details>
+        <summary> More details?</summary>
 
         ✦ Drove data analytics and automation projects (business intelligence reports and dashboards) within the Strategy Department.
 
