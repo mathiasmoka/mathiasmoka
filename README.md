@@ -12,8 +12,11 @@ Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow,
 - 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025.
     <details>
         ✦ Drove data analytics and automation projects (business intelligence reports and dashboards) within the Strategy Department.
+
         ✦ Built Python/Streamlit data analysis tools and pipelines (image analysis (maps), production of quantitative metrics) and VBA–Power BI tools to enhance decision-making and eﬃciency, by translating ambiguous business challenges into concrete technical solutions
+
         ✦ Python, Streamlit, Mistral IA API  
+        
         ✦ Grade: 18/20
     </details>
 
