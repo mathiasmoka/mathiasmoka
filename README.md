@@ -49,9 +49,8 @@ I am continuing the engineering program until May 2026.
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![requests](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=requests&logoColor=white)
-![beautifulsoup](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -69,9 +68,11 @@ I am continuing the engineering program until May 2026.
 ![Google Drive API](https://upload.wikimedia.org/wikipedia/commons/1/11/Google_Drive_icon.png)
 
 - Some APIs I used through my projects: 
-OCR
-Cloud APIs (GCP)
-Nano Banana, Veo3, Gemini, ChatGPT, Mistral AI, 
+OCR,
+Cloud APIs (GCP),
+Nano Banana, Veo3, Gemini, ChatGPT, Mistral AI,
+OpenMeteo,
+Wordpress,
 
 <!--
 **mathiasmoka/mathiasmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
