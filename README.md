@@ -1,6 +1,6 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-- 🔭 Curious and open-minded, I'm interested in solving complex challenges by deploying AI solutions, through APIs, cloud platforms, OCR technologies, prompt engineering, LLMs and NLP, and generative AI applications to create custom automations.
+- 🔭 Curious and open-minded, I'm interested in solving complex challenges by deploying AI and machine learning solutions.
 
 - 🏜️ I am currently a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
 
