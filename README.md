@@ -2,7 +2,7 @@
 
 - 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
 
-- I am currently undertaking a research internship in AI at Airbus, developing a Python library to analyze non-conformities reported on manufactured aircraft.
+- ✈️ I am currently undertaking a research internship in AI at Airbus, developing a Python library to analyze non-conformities reported on manufactured aircraft.
 
 - 🏜️ Alongside my stuides, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
 
