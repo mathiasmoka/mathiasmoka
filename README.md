@@ -32,6 +32,8 @@ I am continuing the engineering program until May 2026.
 <!-- ![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=france&logoColor=white)
 ![English](https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=gb&logoColor=white)-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 ## ⚡ Technologies
 
 ### 🧠 Languages
