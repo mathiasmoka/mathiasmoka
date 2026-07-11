@@ -1,21 +1,19 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-- I will graduate of [École Polytechnique (l'X)](https://www.polytechnique.edu) and [ENSAE Paris](https://www.ensae.fr) in 2027, from the Master of Science in AI for Markets and Quantitative Investments.
-- I 
+* I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in AI for Markets and Quantitative Investments.
 
+* I will also graduate from the engineering degree ("cycle ingénieur") at [ENSAE Paris](https://www.ensae.fr), which I entered through the highly selective French national competitive examination after two years of intensive preparatory classes (CPGE).
+  
 - 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
 
-- ✈️ I am currently undertaking a research internship in AI at [AIRBUS](https://www.airbus.com), developing a Python library to analyze non-conformities reported on manufactured aircraft.
+- ✈️ During summer 2026, I am currently undertaking a research internship in AI at [AIRBUS](https://www.airbus.com), combining statiscal mathematics, machine learning and time series to model non-conformities reported on manufactured aircraft.
 
-- 🏜️ Alongside my stuides, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science), working on data-driven approaches to analyze the effects of climate change.
+- 🏜️ For 2 years, alongside my stuides, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science).
 
-- 🚢  I'm currently experimenting AI technologies for the company [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
+- 🚢  As part of my studies, I completed a machine learning research project for the global group [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
 Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn).
 
-- 🎓 I completed my math & engineering undergraduate studies at [ENSAE Paris](https://www.ensae.fr), the school of Statistics of the [Polytechnic Institude of Paris](https://www.ip-paris.fr), and at Lycée Michel Montaigne. 
-I am continuing the engineering program until May 2026.
-
-- 🏗️ I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. 
+- 🏗️ In 2025, I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. 
     <details>
         <summary> More details?</summary>
 
@@ -28,7 +26,7 @@ I am continuing the engineering program until May 2026.
         ✦ Grade: 18/20
     </details>
 
-- 🚀 I launched [PrépaBooster](https://prepabooster.fr) in 2024, now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
+- 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
 
 - 🌍 I am fluent in French and English, and am consistently eager to explore new places and engage in cultural exchange experiences.
 
