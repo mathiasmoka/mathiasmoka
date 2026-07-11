@@ -1,6 +1,7 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-- I will graduate of [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027, from the Master of Science in AI for Markets and Quantitative Investments.
+- I will graduate of [École Polytechnique (l'X)](https://www.polytechnique.edu) and [ENSAE Paris](https://www.ensae.fr) in 2027, from the Master of Science in AI for Markets and Quantitative Investments.
+- I 
 
 - 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
 
