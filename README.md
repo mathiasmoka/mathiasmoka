@@ -1,5 +1,4 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
-## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
 * I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi). <br>
 ([List of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1))
@@ -24,7 +23,7 @@ I used traditional models, including XGBoost and regression models, as well as m
 
   ✦ Built Python and Streamlit data analysis tools and pipelines for map image analysis and the production of quantitative metrics, as well as VBA and Power BI tools to improve decision-making and operational efficiency. Translated ambiguous business challenges into concrete technical solutions.
 
-  ✦ Technologies: Python, Streamlit, and the Mistral AI API.
+  ✦ Technologies: Python, Streamlit, and the LLM APIs.
 
   ✦ Grade: 18/20.
 
