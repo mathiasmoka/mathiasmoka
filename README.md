@@ -1,10 +1,10 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-* I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi).
-[List of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1)
+* I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi). <br>
+([List of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1))
 
-* I am also pursuing an engineering degree (“cycle ingénieur”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
+* I am also pursuing an engineering degree (“[cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program)”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
 
 * 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
 
@@ -12,8 +12,8 @@
 
 * 🏜️ For the past two years, alongside my studies, I have worked as a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with [CREST — the Center for Research in Economics and Statistics](https://crest.science).
 
-* 🚢 As part of my studies, I completed a machine learning research project for [GTT](https://www.gtt.fr), a global technology and engineering company, to predict and optimize the trajectories of LNG carriers across the world's oceans. The jury graded us 18.5/20.
-  I used traditional models, including XGBoost and regression models, as well as machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.
+* 🚢 As part of my studies, I completed a machine learning research project for [GTT](https://www.gtt.fr), a global technology and engineering company, to predict and optimize the trajectories of LNG carriers across the world's oceans. Score awarded by the jury: 18.5/20
+I used traditional models, including XGBoost and regression models, as well as machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.
 
 * 🏗️ In 2025, I completed a three-month summer internship as a data scientist at the [Paris-Saclay Development Authority (EPA Paris-Saclay)](https://epa-paris-saclay.fr).
 
