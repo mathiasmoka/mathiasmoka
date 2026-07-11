@@ -1,37 +1,38 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
+## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
 * I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi).
-* 
-* I will also graduate from the engineering degree ("cycle ingénieur") at [ENSAE Paris](https://www.ensae.fr), which I entered through the highly selective French national competitive examination after two years of intensive preparatory classes (CPGE).
-  
-- 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
+[List of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1)
 
-- ✈️ During summer 2026, I am currently undertaking a research internship in AI at [AIRBUS](https://www.airbus.com), combining statiscal mathematics, machine learning and time series to model non-conformities reported on manufactured aircraft.
+* I am also pursuing an engineering degree (“cycle ingénieur”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
 
-- 🏜️ For 2 years, alongside my stuides, I am a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with the [CREST - Center for Research in Economics and Statistics](https://crest.science).
+* 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
 
-- 🚢  As part of my studies, I completed a machine learning research project for the global group [GTT](https://www.gtt.fr) to predict and optimize the trajectories of methane tankers on the oceans. 
-Using traditional models (XGBoost, regression) and AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn).
+* ✈️ During the summer of 2026, I am undertaking an AI research internship at [Airbus](https://www.airbus.com), combining statistical methods, machine learning, and time-series analysis to model non-conformities reported on manufactured aircraft.
 
-- 🏗️ In 2025, I did a 3-month summer internship as a data scientist at [Paris-Saclay Development Authority (EPA Paris Saclay)](https://epa-paris-saclay.fr) in 2025. 
-    <details>
-        <summary> More details?</summary>
+* 🏜️ For the past two years, alongside my studies, I have worked as a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with [CREST — the Center for Research in Economics and Statistics](https://crest.science).
 
-        ✦ Drove data analytics and automation projects (business intelligence reports and dashboards) within the Strategy Department.
+* 🚢 As part of my studies, I completed a machine learning research project for [GTT](https://www.gtt.fr), a global technology and engineering company, to predict and optimize the trajectories of LNG carriers across the world's oceans. The jury graded us 18.5/20.
+  I used traditional models, including XGBoost and regression models, as well as machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.
 
-        ✦ Built Python/Streamlit data analysis tools and pipelines (image analysis (maps), production of quantitative metrics) and VBA–Power BI tools to enhance decision-making and eﬃciency, by translating ambiguous business challenges into concrete technical solutions
+* 🏗️ In 2025, I completed a three-month summer internship as a data scientist at the [Paris-Saclay Development Authority (EPA Paris-Saclay)](https://epa-paris-saclay.fr).
 
-        ✦ Python, Streamlit, Mistral IA API  
+  <details>
+    <summary>More details</summary>
 
-        ✦ Grade: 18/20
-    </details>
+  ✦ Led data analytics and automation projects, including business intelligence reports and dashboards, within the Strategy Department.
 
-- 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an oﬃcial company, an e-learning platform I coded in Python, PHP, SQL, HTML, CSS, and JavaScript, that sells access to 1000+ corrected exam papers of the competitive entrance exams for French Grandes Ecoles Engineering Schools.
+  ✦ Built Python and Streamlit data analysis tools and pipelines for map image analysis and the production of quantitative metrics, as well as VBA and Power BI tools to improve decision-making and operational efficiency. Translated ambiguous business challenges into concrete technical solutions.
 
-- 🌍 I am fluent in French and English, and am consistently eager to explore new places and engage in cultural exchange experiences.
+  ✦ Technologies: Python, Streamlit, and the Mistral AI API.
 
-<!-- ![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=france&logoColor=white)
-![English](https://img.shields.io/badge/English-1E90FF?style=for-the-badge&logo=gb&logoColor=white)-->
+  ✦ Grade: 18/20.
+
+  </details>
+
+* 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an officially registered company. It is an e-learning platform that I developed using Python, PHP, SQL, HTML, CSS, and JavaScript. The platform provides access to more than 1,000 fully worked past examination papers for the competitive entrance examinations to French Grandes Écoles engineering programs.
+
+* 🌍 I am fluent in both French and English and am always eager to discover new places and engage in cross-cultural experiences.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasmoka&show_icons=true&theme=transparent) -->
 
