@@ -3,7 +3,7 @@
 * I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi). <br>
 ([List of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1))
 
-* I am also pursuing an engineering degree (“[cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program)”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
+* I am also pursuing an engineering degree in Applied Mathematics (“[cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program)”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
 
 * ✈️ During the summer of 2026, I am undertaking an AI research internship at [Airbus](https://www.airbus.com), combining statistical methods, machine learning, and time-series analysis to model non-conformities reported on manufactured aircraft.
 
