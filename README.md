@@ -1,5 +1,7 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
+- I will graduate of École Poltechnique in 2027, from the Master of Science in AI for Markets and Quantitative Investments.
+
 - 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
 
 - ✈️ I am currently undertaking a research internship in AI at [AIRBUS](https://www.airbus.com), developing a Python library to analyze non-conformities reported on manufactured aircraft.
