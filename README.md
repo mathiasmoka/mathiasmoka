@@ -5,8 +5,6 @@
 
 * I am also pursuing an engineering degree (“[cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program)”) at [ENSAE Paris](https://www.ensae.fr), which I entered through France’s highly selective national competitive examinations after two years of intensive preparatory classes (CPGE).
 
-* 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
-
 * ✈️ During the summer of 2026, I am undertaking an AI research internship at [Airbus](https://www.airbus.com), combining statistical methods, machine learning, and time-series analysis to model non-conformities reported on manufactured aircraft.
 
 * 🏜️ For the past two years, alongside my studies, I have worked as a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with [CREST — the Center for Research in Economics and Statistics](https://crest.science).
@@ -30,6 +28,8 @@ I used traditional models, including XGBoost and regression models, as well as m
   </details>
 
 * 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an officially registered company. It is an e-learning platform that I developed using Python, PHP, SQL, HTML, CSS, and JavaScript. The platform provides access to more than 1,000 fully worked past examination papers for the competitive entrance examinations to French Grandes Écoles engineering programs.
+
+* 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
 
 * 🌍 I am fluent in both French and English and am always eager to discover new places and engage in cross-cultural experiences.
 
