@@ -1,11 +1,7 @@
 ## Hi there, I'm Mathias <img src="https://raw.githubusercontent.com/Bruno-rose/Bruno-rose/main/wave.gif" width="30">
 
-* I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi){:target="_blank"}.
-
- <a href="https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi" target="_blank">
-  AI for Markets and Quantitative Investments
-</a>
-
+* I will graduate from [École Polytechnique (l'X)](https://www.polytechnique.edu) in 2027 with a Master of Science in [AI for Markets and Quantitative Investments](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi).
+* 
 * I will also graduate from the engineering degree ("cycle ingénieur") at [ENSAE Paris](https://www.ensae.fr), which I entered through the highly selective French national competitive examination after two years of intensive preparatory classes (CPGE).
   
 - 🔭 Curious and open-minded, I'm interested in solving complex challenges by developing AI and machine learning solutions.
