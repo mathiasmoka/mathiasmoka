@@ -10,7 +10,6 @@
 * 🏜️ For the past two years, alongside my studies, I have worked as a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with [CREST — the Center for Research in Economics and Statistics](https://crest.science).
 
 * 🚢 As part of my studies, I completed a machine learning research project for [GTT](https://www.gtt.fr), a global technology and engineering company, to predict and optimize the trajectories of LNG carriers across the world's oceans. Score awarded by the jury: 18.5/20
-I used traditional models, including XGBoost and regression models, as well as machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.
 
 * 🏗️ In 2025, I completed a three-month summer internship as a data scientist at the [Paris-Saclay Development Authority (EPA Paris-Saclay)](https://epa-paris-saclay.fr).
 
