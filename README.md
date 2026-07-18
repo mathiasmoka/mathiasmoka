@@ -15,7 +15,7 @@
 
 * 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an officially registered company. It is an e-learning platform that I developed using Python, PHP, SQL, HTML, CSS, and JavaScript. The platform provides access to more than 1,000 fully worked past examination papers for the competitive entrance examinations to French Grandes Écoles engineering programs.
 
-* 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
+* 🔭 Curious and open-minded, I enjoy tackling complex challenges, notably by developing AI and machine learning solutions.
 
 * 🌍 I am fluent in both French and English and am always eager to discover new places and engage in cross-cultural experiences.
 
