@@ -13,19 +13,6 @@
 
 * 🏗️ In 2025, I completed a three-month summer internship as a data scientist at the [Paris-Saclay Development Authority (EPA Paris-Saclay)](https://epa-paris-saclay.fr).
 
-  <details>
-    <summary>More details</summary>
-
-  ✦ Led data analytics and automation projects, including business intelligence reports and dashboards, within the Strategy Department.
-
-  ✦ Built Python and Streamlit data analysis tools and pipelines for map image analysis and the production of quantitative metrics, as well as VBA and Power BI tools to improve decision-making and operational efficiency. Translated ambiguous business challenges into concrete technical solutions.
-
-  ✦ Technologies: Python, Streamlit, and the LLM APIs.
-
-  ✦ Grade: 18/20.
-
-  </details>
-
 * 🚀 In 2024, I launched [PrépaBooster](https://prepabooster.fr), now an officially registered company. It is an e-learning platform that I developed using Python, PHP, SQL, HTML, CSS, and JavaScript. The platform provides access to more than 1,000 fully worked past examination papers for the competitive entrance examinations to French Grandes Écoles engineering programs.
 
 * 🔭 Curious and open-minded, I enjoy tackling complex challenges by developing AI and machine learning solutions.
