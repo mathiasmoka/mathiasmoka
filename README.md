@@ -19,7 +19,7 @@
 
 * 🌍 I am fluent in both French and English and am always eager to discover new places and engage in cross-cultural experiences.
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasmoka&show_icons=true&theme=transparent) -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasmoka&show_icons=true&theme=transparent)
 
 ## ⚡ Technologies
 
@@ -63,7 +63,7 @@ OCR,
 Cloud APIs (GCP),
 Nano Banana, Veo3, Gemini, ChatGPT, Mistral AI,
 OpenMeteo,
-Wordpress,
+Wordpress, -->
 
 <!--
 **mathiasmoka/mathiasmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
