@@ -5,7 +5,7 @@
 
 * I will also graduate from [ENSAE Paris](https://www.ensae.fr) in 2027, with an engineering degree in Applied Mathematics (“[cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program)”, BSc \& MSc equivalent), entered through France’s national competitive examinations after 2 years of intensive preparatory classes (CPGE). <!--(Ratio: 12 spots in PSI for 3,664 candidates in 2024) -->
 
-* ✈️ During the summer of 2026, I am undertaking an AI research internship at [Airbus](https://www.airbus.com), combining statistical methods, machine learning, and time-series analysis to model non-conformities reported on manufactured aircraft.
+* ✈️ During the summer of 2026, I undertook an AI research internship at [Airbus](https://www.airbus.com), combining statistical methods and machine learning to predict aerospace non-conformities on manufactured commercial aircraft.
 
 * 🏜️ For the past two years, alongside my studies, I have worked as a research assistant at [École Polytechnique](https://www.polytechnique.edu), affiliated with [CREST — the Center for Research in Economics and Statistics](https://crest.science).
 
