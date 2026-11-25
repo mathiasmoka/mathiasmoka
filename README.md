@@ -14,9 +14,8 @@ I study applied mathematics, statistics and machine learning at École Polytechn
 * **4th place, Hudson River Trading hackathon** (2026): systematic strategy built on NLP signals from financial news headlines.
 
 ### Experience and research
-
+* **Squarepoint Capital x École Polytechnique** (October 2026). Pretrained a Llama-style transformer on high-frequency order-flow and top-of-book data.
 * **[Airbus](https://www.airbus.com)**, data science / machine learning intern (summer 2026). Predicted non-conformities on commercial aircraft production lines with count models (Poisson, ZINB, hurdle) and machine learning. The hurdle model kept for the final pipeline cut the inspection workload by 8% compared with a two-step GLM.
-* **Squarepoint Capital x École Polytechnique** (2026). Pretrained a Llama-style transformer on high-frequency order-flow and top-of-book data.
 * **[GTT](https://www.gtt.fr)** (2025-2026). 7-month machine learning project with a team of 4, forecasting LNG carrier voyages across the world's oceans. Our best model, a sector-specific ARMA, cut the median relative error from 35% to 8.1%. Jury grade: 18.5/20.
 * **[École Polytechnique](https://www.polytechnique.edu)**, research assistant since 2024. Spatial, demographic and survey data, multilevel regression with post-stratification.
 * **[EPA Paris-Saclay](https://epa-paris-saclay.fr)**, data science intern (summer 2025, 3 months).
