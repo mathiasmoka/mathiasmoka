@@ -6,7 +6,7 @@ I study applied mathematics, statistics and machine learning at École Polytechn
 
 * **[École Polytechnique](https://www.polytechnique.edu)**, MSc in [AI for Markets and Quantitative Investment](https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-x-ensae-maqi) (MaQI, joint X-ENSAE program), graduating in 2027 ([list of courses](https://gargantua.polytechnique.fr/siatel-web/app/linkto/bnFBYTZ4YmorZmhoY0ExekRtMS9SNHI4aUZrNDY5SU9qb1RJOHZqZ01POC9PWVdmVFQ3eU9kb2p0SDdPM0xMOVl1UmNMekFRdTYwPQ?aw=1)).
 * **[ENSAE Paris](https://www.ensae.fr)**, engineering degree in statistics and machine learning ([cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program), BSc & MSc equivalent), graduating in 2027. Admitted through France's national competitive exams: 12 places for 3,664 PSI candidates in 2024.
-* **Lycée Michel Montaigne**, Bordeaux, preparatory classes (CPGE PSI*), 2022-2024. Two years of intensive mathematics and physics to prepare for the competitive entrance exams to the French Grandes Écoles.
+* **Preparatory classes**, Lycée Michel Montaigne Bordeaux, (CPGE PSI*), 2022-2024. Two years of intensive mathematics and physics to prepare for the competitive entrance exams to the French Grandes Écoles.
 
 ### Trading competitions
 
