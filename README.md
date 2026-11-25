@@ -8,7 +8,7 @@ I study applied mathematics, statistics and machine learning at École Polytechn
 * **[ENSAE Paris](https://www.ensae.fr)**, engineering degree in statistics and machine learning ([cycle ingénieur](https://www.ensae.fr/en/education/ingenieur-ensae-program), BSc & MSc equivalent), graduating in 2027. Admitted through France's national competitive exams: 12 places for 3,664 PSI candidates in 2024.
 * **Preparatory classes**, Lycée Michel Montaigne Bordeaux, (CPGE PSI*), 2022-2024. Two years of intensive mathematics and physics to prepare for the competitive entrance exams to the French Grandes Écoles.
 
-### Trading competitions
+### Recent Trading competitions
 
 * **2nd place, Millennium Trading Challenge** (2026): on-site, 3-round Python algorithmic trading competition across different market regimes.
 * **4th place, Hudson River Trading hackathon** (2026): systematic strategy built on NLP signals from financial news headlines.
